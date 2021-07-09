@@ -6,6 +6,8 @@ const Frag = () => {
         <>
             <h4>Image Gallery 2021 &reg;</h4>
         </>
+        // Or you can use 
+        // <React.Fragment><h4>Image Gallery 2021 &reg;</h4></React.Fragment>
     );
 };
 
