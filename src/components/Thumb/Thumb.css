@@ -1,0 +1,9 @@
+.thumb {
+    width: 300px;
+    height: 200px;
+    transition: transform 1s;
+}
+
+.thumb:hover {
+    transform: scale(1.1);
+}

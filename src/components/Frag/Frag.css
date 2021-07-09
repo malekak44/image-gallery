@@ -1,0 +1,9 @@
+h4 {
+    text-align: center;
+    margin: 20px auto;
+    background-image: linear-gradient(to right,teal, #db0768);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}

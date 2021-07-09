@@ -1,0 +1,46 @@
+body {
+    color: teal !important;
+}
+
+.images-container {
+    border: 5px double teal;
+    width: 90%;
+    display: block;
+    margin: 6% auto;
+}
+
+#material img {
+    transition: all 1s;
+}
+
+#material img:hover {
+    filter: sepia(100);
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+}
+
+input[type=search] {
+    font-size: 20px;
+    background-size: 28px;
+    background-repeat: no-repeat;
+    color: teal;
+    display: block;
+    width: 25%;
+    border: 2px solid teal;
+}
+
+input[type=search]:focus {
+    outline: none;
+}
+
+#searchBtn {
+    background-color: teal;
+    color: white;
+    border: 1px solid teal;
+    padding: 5px;
+}
