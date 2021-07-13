@@ -1,6 +1,6 @@
 .thumb {
-    width: 300px;
-    height: 200px;
+    width: 300px !important;
+    height: 200px !important;
     transition: transform 1s;
 }
 

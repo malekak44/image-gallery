@@ -5,7 +5,7 @@ import './Thumb.css';
 const Thumb = (props) => {
     const { webformatURL } = props.photo;
     return (
-        <Image className="thumb" src={webformatURL} alt="" thumbnail/>
+        <Image className="thumb img-fluid" src={webformatURL} alt="" thumbnail/>
     );
 };
 
