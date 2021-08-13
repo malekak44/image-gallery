@@ -1,7 +1,8 @@
-h4 {
+#footer {
+    height: 30px;
     text-align: center;
     margin: 20px auto;
-    background-image: linear-gradient(to right,teal, #db0768);
+    background-image: linear-gradient(to left,teal, #db0768);
     -webkit-background-clip: text;
     -moz-background-clip: text;
     background-clip: text;

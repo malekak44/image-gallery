@@ -4,7 +4,7 @@ import './Frag.css';
 const Frag = () => {
     return (
         <>
-            <h4>Image Gallery 2021 &reg;</h4>
+            <h4 id='footer'>Image Gallery 2021&reg;</h4>
         </>
         // Or you can use 
         // <React.Fragment><h4>Image Gallery 2021 &reg;</h4></React.Fragment>
